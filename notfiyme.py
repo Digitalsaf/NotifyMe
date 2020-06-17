@@ -1,7 +1,7 @@
 import sounddevice as sd
-from numpy import linalg as LA
+
 import numpy as np
-import struct
+
 import smtplib, ssl
 
 
